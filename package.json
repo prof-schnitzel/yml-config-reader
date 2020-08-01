@@ -1,6 +1,6 @@
 {
   "name": "yml-config-reader",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "YAML Config Reader",
   "main": "index.js",
   "scripts": {
