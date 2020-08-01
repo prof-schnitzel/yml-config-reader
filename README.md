@@ -1,5 +1,7 @@
 # yml-config-reader - YAML Configuration Reader for Node.js
 
+![Node.js Package](https://github.com/prof-schnitzel/yml-config-reader/workflows/Node.js%20Package/badge.svg)
+
 This plugin provides a way to configure your node project based on YAML files. The configuration
 reader itself is really small since almost everything is done by
 [js-yaml](https://github.com/nodeca/js-yaml) or [lodash](https://github.com/lodash/lodash). You can
