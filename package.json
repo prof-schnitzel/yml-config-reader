@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest --verbose --coverage"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prof-schnitzel/yml-config-reader.git"
+  },
   "keywords": [
     "Config",
     "Configuration",
@@ -22,8 +26,9 @@
       "**/test/**/*.test.js"
     ]
   },
-  "author": "Prof Schnitzel",
+  "author": "Prof. Schnitzel",
   "license": "MIT",
+  "homepage": "https://github.com/prof-schnitzel/yml-config-reader",
   "dependencies": {
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.19"
