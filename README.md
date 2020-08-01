@@ -1,6 +1,6 @@
 # yml-config-reader - YAML Configuration Reader for Node.js
 
-![Node.js Package](https://github.com/prof-schnitzel/yml-config-reader/workflows/Node.js%20Package/badge.svg)
+![build](https://github.com/prof-schnitzel/yml-config-reader/workflows/build/badge.svg?branch=v0.1.4)
 [![Coverage Status](https://coveralls.io/repos/github/prof-schnitzel/yml-config-reader/badge.svg?branch=master)](https://coveralls.io/github/prof-schnitzel/yml-config-reader?branch=master)
 
 This plugin provides a way to configure your node project based on YAML files. The configuration
