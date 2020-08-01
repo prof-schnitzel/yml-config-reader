@@ -1,0 +1,12 @@
+app1:
+  url: app1.${baseUrl}
+
+app2:
+  url: app2.${baseUrl}
+
+stage: test
+
+allStages:
+  - ${stage}
+  - qa
+  - prod

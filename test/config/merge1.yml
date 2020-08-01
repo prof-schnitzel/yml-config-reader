@@ -1,0 +1,5 @@
+stay: foobar
+override: 1
+addObj:
+  var1: 123
+  var2: 456

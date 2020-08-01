@@ -1,0 +1,9 @@
+restUrl: www.example.com
+
+app1:
+  id: custom-app
+  url: www.example.com/app1
+
+allowedAuths:
+  - basic
+  - jwt

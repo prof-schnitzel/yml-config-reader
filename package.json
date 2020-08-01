@@ -1,0 +1,34 @@
+{
+  "name": "yml-config-reader",
+  "version": "0.1.0",
+  "description": "YAML Config Reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "keywords": [
+    "Config",
+    "Configuration",
+    "Settings",
+    "Properties",
+    "Yaml",
+    "Yml",
+    "Node.js",
+    "Environment",
+    "Environment Variables"
+  ],
+  "jest": {
+    "testMatch": [
+      "**/test/**/*.test.js"
+    ]
+  },
+  "author": "Prof Schnitzel",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.14.0",
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}

@@ -1,0 +1,3 @@
+baseUrl: api.test.com
+
+home: test.com/${stage}
